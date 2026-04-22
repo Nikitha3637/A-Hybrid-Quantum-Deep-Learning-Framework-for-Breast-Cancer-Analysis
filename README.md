@@ -1,1 +1,2 @@
 # A-Hybrid-Quantum-Deep-Learning-Framework-for-Breast-Cancer-Analysis
+Proposed a Hybrid Quantum Deep Learning Model for Breast Cancer Diagnosis by combining Quantum Machine Learning (QML) with CNNs, resulting in improved accuracy in cancer detection. Applied medical image pre-processing, feature extraction, and prediction modeling through Python and TensorFlow programming languages for enhanced diagnostics. Showed skills in deep learning, medical image processing, hybrid model building, and healthcare analytics.
